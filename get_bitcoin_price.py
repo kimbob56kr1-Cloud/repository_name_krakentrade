@@ -1,4 +1,4 @@
-# Kraken 거래소 API를 사용해서 비트코인(BTC/USD) 현재 가격을 2분마다 파일 bitcoin_price.txt에 추가 저장하는 Python 코드입니다.
+# Kraken 거래소 API를 사용해서 비트코인(BTC/USD) 현재 가격을 2분마다 파일 bitcoin_price.txt에 추가 저장하는 Python 코드입니다.김상백 11/13/2026 
 
 import requests
 import time
